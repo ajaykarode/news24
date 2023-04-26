@@ -29,7 +29,7 @@ const News = (props) => {
   };
 
   useEffect(() => {
-    document.title = `News 24 - ${capitalizeFirstLetter(props.category)}`;
+    // document.title = `News 24 - ${capitalizeFirstLetter(props.category)}`;
     updateNews();
   }, []);
 
