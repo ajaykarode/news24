@@ -36,7 +36,6 @@
   background-image: url(./images.jpg);
 }
 .bd-navbar {
-  /* padding: 0.75rem 0; */
   background-color: #6c58b39c;
 }
 .ba-navbar {
@@ -47,11 +46,9 @@
   
 }
 .bs-navbar {
-  /* padding: 0.75rem 0; */
   background-color: #6c58b3ea;
 }
 .size{
-  /* width: 353.5px; */
   height: 200px;
 }
 .black{
@@ -59,7 +56,6 @@
 }
 .badge{
   background-color: #6d60a7b9;
-  /* background-color: #4224afb9; */
 }
 
 .tbmargin{
